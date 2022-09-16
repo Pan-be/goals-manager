@@ -10,7 +10,7 @@
 }
 
 @media (min-width: 768px) {
-	button {
+	.button {
 		max-width: auto;
 	}
 }
